@@ -1,0 +1,8 @@
+name:test,url:test,interval:3600,type:wp
+name:juju,url:juju,interval:3600,type:wp
+name:zef,url:ezfz,interval:36000,type:wp
+name:fez,url:zef,interval:3600,type:joo
+name:zefz,url:zefz,interval:3600,type:joo
+name:fez,url:zef,interval:3600,type:wp
+name:oirhzoi,url:zepgjzio,interval:3600,type:joo
+name:fzef,url:zegzegz,interval:3600,type:joo
